@@ -52,7 +52,8 @@ a pitch. It also allows a person to signup to be able to access the functionalit
 
 * [Python](https://www.python.org/) for backend
 * [HTML](https://html.com/) for web app structure
-* [Bootstrap](https://getbootstrap.com/) and [Javascript](https://www.javascript.com/) for styling
+* [Bootstrap](https://getbootstrap.com/) for styling
+* [Heroku](https://heroku.com)
 
 ## Authors
 
