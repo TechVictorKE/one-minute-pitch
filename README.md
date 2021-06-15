@@ -10,7 +10,7 @@ a pitch. It also allows a person to signup to be able to access the functionalit
 
 <img src="">
 
-## User Story
+## User Stories
 
 * Comment on the different pitches posted py other uses.
 * See the pitches posted by other uses.
