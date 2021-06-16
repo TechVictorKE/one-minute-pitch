@@ -8,7 +8,7 @@ a pitch. It also allows a person to signup to be able to access the functionalit
 
 ## Screenshot
 
-<img src="">
+<img src="https://github.com/TechVictorKE/one-minute-pitch/blob/master/app/static/photos/Screenshot1.png">
 
 ## User Stories
 
