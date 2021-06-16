@@ -4,7 +4,7 @@ This  is a flask application that allows users to post one minute pitches and al
 a pitch. It also allows a person to signup to be able to access the functionalities of the application
 
 ## Live Link
-[View Site]()
+[View Site](https://pitch-one-min.herokuapp.com/)
 
 ## Screenshot
 
