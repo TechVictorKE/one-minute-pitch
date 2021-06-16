@@ -5,7 +5,7 @@ load_dotenv()
 class Config:
     SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL')
     SQLALCHEMY_TRACK_MODIFICATIONS=True
-    SECRET_KEY=os.environ.get('SECRET_KEY')
+    SECRET_KEY= b'\x1a\xff\x9fX\x96\xa1\xd48\xf0\xe3\xcc\x1e\x9d4\xec\x12\xd1\x92\x94J#\x99f\xfb'
     UPLOADED_PHOTOS_DEST ='app/static/photos'
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 465
