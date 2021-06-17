@@ -14,7 +14,7 @@ a pitch. It also allows a person to signup to be able to access the functionalit
 
 * Comment on the different pitches posted py other uses.
 * See the pitches posted by other uses.
-* Vote on s pitch they have viwed by giving it a upvote or a downvote.
+* Vote on a pitch they have viwed by giving it a upvote or a downvote.
 * Register to be allowed to log in to the application
 * View pitches from the different categories.
 * Submit a pitch to a specific category of their choice.
