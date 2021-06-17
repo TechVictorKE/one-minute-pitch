@@ -37,7 +37,7 @@ a pitch. It also allows a person to signup to be able to access the functionalit
 ## Running the Application
 * To run the application, in your terminal:
 
-        $ python3 manage.py server
+        $ python3 manage.py runserver
       
         
 ## Testing the Application
